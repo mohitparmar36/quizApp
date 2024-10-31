@@ -1,0 +1,5 @@
+/* QuizTable.css */
+.modal-header-red .btn-close {
+    color: red !important;
+    opacity: 1;
+}
